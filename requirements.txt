@@ -1,0 +1,9 @@
+# Jarvis AI Assistant Dependencies
+# Core Python - no external dependencies required for basic functionality
+# All modules use Python standard library only
+
+# Optional: For enhanced features
+# Uncomment as needed:
+# requests>=2.28.0  # For HTTP requests
+# python-dotenv>=0.19.0  # For environment variables
+# colorama>=0.4.4  # For colored terminal output (Windows compatibility)
